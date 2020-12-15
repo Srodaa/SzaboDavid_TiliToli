@@ -117,6 +117,15 @@ namespace TiliToli
                 }
             } while (kever != 103);
             i = 0;
+            Button1.IsEnabled = true;
+            Button2.IsEnabled = true;
+            Button3.IsEnabled = true;
+            Button4.IsEnabled = true;
+            Button5.IsEnabled = true;
+            Button6.IsEnabled = true;
+            Button7.IsEnabled = true;
+            Button8.IsEnabled = true;
+            ujjatek.IsEnabled = false;
         }
     }
 }
